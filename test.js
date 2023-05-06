@@ -1,5 +1,5 @@
 
-//occurance = (answered * 10) / (1.1 - succesRate)
+//occurance = (answered * 10) / (1.1 - successRate)
 
 
 
@@ -10,31 +10,36 @@ const questions = require("./questions.json");
 
 const prompt = require('prompt-sync')();
 
-init();
+run();
 
-while (true) {
+async function run(){
+  await init();
+  while (true) {
 
-  let newest = {priority: -Infinity, question, questionNew};
-
-  for(let question of questions.questions){
-    if(question.shown != 0){
-      if(newest.priority < questions.shown - (question.shown + question.occurance)){
-        newest.priority = questions.shown - (question.shown + question.occurance);
-        newest.question = question;
+    let newest = {priority: -Infinity, question: undefined, questionNew: undefined};
+  
+    for(let question of questions.questions){
+      if(question.shown != 0){
+        if(newest.priority < questions.shown - (question.shown + question.occurance)){
+          newest.priority = questions.shown - (question.shown + question.occurance);
+          newest.question = question;
+        }
+      }else if (newest.questionNew === undefined){
+        newest.questionNew = question;
       }
-    }else if (newest.questionNew === undefined){
-      newest.questionNew = question;
     }
-  }
-  if(newest.priority > -1){
-    
-  }else if(newest.questionNew != undefined){
-
-  }else{
+    if(newest.priority > -1){
+      await show(newest.question);
+    }else if(newest.questionNew != undefined){
+      await show(newest.questionNew);
+    }else{
+      await show(newest.question);
+    }
     
   }
   
 }
+
 
 
 async function init(){
@@ -49,29 +54,57 @@ async function init(){
 
 async function show(question) {
   
+  
 
   await page.goto(question.link, {
     waitUntil: "domcontentloaded"
   });
 
   // Set screen size
-  //await page.setViewport({width: 1080, height: 1024});
-  let ans = parseInt(prompt(`${question.title}\n\n1. ${question.answers[0]}\n2. ${question.answers[1]}\n3. ${question.answers[2]}\n\n`));
+  //await page.setViewport({width: 1080, height: 1024});  
+  let textArr = await page.evaluate('let children = document.getElementById("sekce-answer-container").children; let arr = []; for(let child of children){arr.push(child.children[1].textContent)} arr;');
+  let prmpt = `\n${question.title}\n\n`;
+  let cnt = 0;
+
+  for(let text of textArr){
+    cnt++;
+    prmpt += `${cnt}. ${text}\n`;
+  }
+  console.log(prmpt + "\n");
+  let ans = parseInt(prompt(">"));
   const textSelector = await page.waitForSelector(
-    `text/${question.answers[ans-1]}`
+    `text/${textArr[ans-1]}`
   );
+  await (await textSelector.getProperty("parentElement")).click();
+  questions.shown++;
   if(ans == question.correct + 1){
+    questions.correct++;
     question.shown++;
     question.answered++;
     question.successRate = question.answered/question.shown;
-    question.occurance = (question.shown * 10) / (1.1 - question.succesRate);
-    console.log(`\ncorrect\n\nstats:\n\taccuracy: ${((questions.correct/questions.shown)*100).toFixed(1)}%\n\tanswered: ${questions.shown}\n\tremaining new: ${questions.questions.filter(x => x.shown=0).length}`);
+    console.log(question.successRate);
+    question.occurance = (question.shown * 10) / (1.1 - question.successRate);
+    console.log(`\ncorrect\n\nstats:\n\taccuracy: ${((questions.correct/questions.shown)*100).toFixed(1)}%\n\tanswered: ${questions.shown}\n\tremaining new: ${questions.questions.filter(x => x.shown==0).length}`);
   }else{
     question.shown++;
     question.successRate = question.answered/question.shown;
-    question.occurance = (question.shown * 10) / (1.1 - question.succesRate);
-    console.log(`\nincorrect\n\nstats:\n\taccuracy: ${((questions.correct/questions.shown)*100).toFixed(1)}%\n\tanswered: ${questions.shown}\n\tremaining new: ${questions.questions.filter(x => x.shown=0).length}`);
+    question.occurance = (question.shown * 10) / (1.1 - question.successRate);
+    console.log(`\nincorrect\n\nstats:\n\taccuracy: ${((questions.correct/questions.shown)*100).toFixed(1)}%\n\tanswered: ${questions.shown}\n\tremaining new: ${questions.questions.filter(x => x.shown==0).length}`);
   }
+
+  questions.questions.forEach((x) => {
+    if(x.link == question.link){
+      x.answered = question.answered;
+      x.shown = question.shown;
+      x.successRate = question.successRate;
+      x.occurance = question.occurance;
+    } 
+  });
+
+  fs.writeFileSync("./questions.json", JSON.stringify(questions, null, 2), {encoding: 'utf8', flag: "w+"});
+
+  prompt("\npress enter to continue\n\n");
+
 }
 
 
