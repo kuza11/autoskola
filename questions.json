@@ -1,6 +1,7 @@
 {
-  "shown": 0,
-  "correct": 0,
+  "type": "module",
+  "shown": 11,
+  "correct": 10,
   "questions": [
     {
       "title": "Řidič autobusu za jízdy:",
@@ -11,82 +12,26 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19580-ridic_autobusu_za_jizdy",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
-    },
-    {
-      "title": "Může řidič řídit vozidlo pokud je jeho schopnost k řízení snížena v důsledku jeho zdravotního stavu?",
-      "answers": [
-        "Může, pouze na dojetí k lékaři, nebo svého bydliště za podmínky zvýšené opatrnosti. ",
-        "Může.",
-        "Nemůže."
-      ],
-      "correct": 2,
-      "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19581-muze_ridic_ridit_vozidlo_pokud_je_jeho_schopnost_k_rizeni_snizena_v_dusledku_jeho_zdravotniho_",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
-    },
-    {
-      "title": "Smí řidič při zastavení vozidla před železničním přejezdem za snížené viditelnosti užít potkávací světla?",
-      "answers": [
-        "Ano, za všech okolností.",
-        "Ne, pokud by jimi mohl oslnit řidiče v protisměru.",
-        "Ne, je povinen vždy užít dálková světla."
-      ],
-      "correct": 1,
-      "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19584-smi_ridic_pri_zastaveni_vozidla_pred_zeleznicnim_prejezdem_za_snizene_viditelnosti_uzit_potkav",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
-    },
-    {
-      "title": "Smí řidič traktoru přepravovat v kabině děti?",
-      "answers": [
-        "Ano, ale pouze na sedadle povinně vybaveným zádržným bezpečnostním systémem.",
-        "Ano, ale dítě do 150 cm výšky a 36 kg váhy musí být přepravováno v dětském zádržném systému.",
-        "Ne, ve zvláštním motorovém vozidle nesmějí být přepravovány osoby mladší 15 let."
-      ],
-      "correct": 2,
-      "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19586-smi_ridic_traktoru_prepravovat_v_kabine_deti",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
-    },
-    {
-      "title": "Smí se s nákladním automobilem s okamžitou hmotností 12 000 kg vléci na tyči nákladní automobil, který má poruchu na brzdovém systému a má okamžitou hmotností 15 000 kg?",
-      "answers": [
-        "Nesmí. Vozidlo s poškozeným brzdovým systémem se nesmí vléci vůbec.",
-        "Smí. Okamžité hmotnosti vozidel při vlečení na tyči nerozhodují.",
-        "Nesmí. Nemá-li vlečené vozidlo účinné brzdy, nesmí jeho okamžitá hmotnost být vyšší než okamžitá hmotnost vlečného vozidla."
-      ],
-      "correct": 2,
-      "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19587-smi_se_s_nakladnim_automobilem_s_okamzitou_hmotnosti_12_000_kg_vleci_na_tyci_nakladni_automobi",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
-    },
-    {
-      "title": "Může řidič řídit vozidlo pokud je jeho schopnost k řízení snížena v důsledku jeho zdravotního stavu?",
-      "answers": [
-        "Může, pouze na dojetí k lékaři, nebo svého bydliště za podmínky zvýšené opatrnosti. ",
-        "Může.",
-        "Nemůže."
-      ],
-      "correct": 2,
-      "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19581-muze_ridic_ridit_vozidlo_pokud_je_jeho_schopnost_k_rizeni_snizena_v_dusledku_jeho_zdravotniho_",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 9.09090909090909,
+      "answered": 1,
+      "successRate": 1,
+      "occurance": 99.99999999999991,
       "shown": 1
     },
     {
+      "title": "Může řidič řídit vozidlo pokud je jeho schopnost k řízení snížena v důsledku jeho zdravotního stavu?",
+      "answers": [
+        "Může, pouze na dojetí k lékaři, nebo svého bydliště za podmínky zvýšené opatrnosti. ",
+        "Může.",
+        "Nemůže."
+      ],
+      "correct": 2,
+      "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19581-muze_ridic_ridit_vozidlo_pokud_je_jeho_schopnost_k_rizeni_snizena_v_dusledku_jeho_zdravotniho_",
+      "answered": 1,
+      "successRate": 0.5,
+      "occurance": 33.33333333333333,
+      "shown": 2
+    },
+    {
       "title": "Smí řidič při zastavení vozidla před železničním přejezdem za snížené viditelnosti užít potkávací světla?",
       "answers": [
         "Ano, za všech okolností.",
@@ -95,10 +40,10 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19584-smi_ridic_pri_zastaveni_vozidla_pred_zeleznicnim_prejezdem_za_snizene_viditelnosti_uzit_potkav",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
+      "answered": 1,
+      "successRate": 1,
+      "occurance": 99.99999999999991,
+      "shown": 1
     },
     {
       "title": "Smí řidič traktoru přepravovat v kabině děti?",
@@ -109,10 +54,10 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19586-smi_ridic_traktoru_prepravovat_v_kabine_deti",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
+      "answered": 1,
+      "successRate": 1,
+      "occurance": 99.99999999999991,
+      "shown": 1
     },
     {
       "title": "Smí se s nákladním automobilem s okamžitou hmotností 12 000 kg vléci na tyči nákladní automobil, který má poruchu na brzdovém systému a má okamžitou hmotností 15 000 kg?",
@@ -123,10 +68,10 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19587-smi_se_s_nakladnim_automobilem_s_okamzitou_hmotnosti_12_000_kg_vleci_na_tyci_nakladni_automobi",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
+      "answered": 1,
+      "successRate": 1,
+      "occurance": 99.99999999999991,
+      "shown": 1
     },
     {
       "title": "Smí řidič s řidičským oprávněním skupiny B řídit soupravu vozidel, kdy osobní automobil má provozní hmotnost 1 500 kg a největší povolenou hmotnost 2 050 kg a přípojné vozidlo má provozní hmotnost 900 kg a největší povolenou hmotnost 1 650 kg?",
@@ -137,10 +82,10 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19588-smi_ridic_s_ridicskym_opravnenim_skupiny_b_ridit_soupravu_vozidel_kdy_osobni_automobil_ma_prov",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
+      "answered": 1,
+      "successRate": 1,
+      "occurance": 99.99999999999991,
+      "shown": 1
     },
     {
       "title": "Může řidič s řidičským oprávněním skupiny B s harmonizovaným kódem 96 řídit soupravu vozidel, kdy osobní automobil má okamžitou hmotnost 2 500 kg a největší povolenou hmotnost 3 050 kg a přípojné vozidlo má okamžitou hmotnost 900 kg a největší povolenou hmotnost 1 650 kg?",
@@ -151,10 +96,10 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19589-muze_ridic_s_ridicskym_opravnenim_skupiny_b_s_harmonizovanym_kodem_96_ridit_soupravu_vozidel_k",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
+      "answered": 1,
+      "successRate": 1,
+      "occurance": 99.99999999999991,
+      "shown": 1
     },
     {
       "title": "Smí řidič nákladního vozidla při jízdě vozidlem držet v ruce nebo jiným způsobem vysílačku?",
@@ -165,10 +110,10 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19590-smi_ridic_nakladniho_vozidla_pri_jizde_vozidlem_drzet_v_ruce_nebo_jinym_zpusobem_vysilacku",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
+      "answered": 1,
+      "successRate": 1,
+      "occurance": 99.99999999999991,
+      "shown": 1
     },
     {
       "title": "Za jakých podmínek smí řidič nákladního automobilu o nejvyšší povolené hmotnosti 7490 kg pokračovat v neděli v 16:00 hodin v jízdě po silnici č.16 směrem Mělník?",
@@ -179,10 +124,10 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19598-za_jakych_podminek_smi_ridic_nakladniho_automobilu_o_nejvyssi_povolene_hmotnosti_7490_kg_pokra",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
+      "answered": 1,
+      "successRate": 1,
+      "occurance": 99.99999999999991,
+      "shown": 1
     },
     {
       "title": "Řidič nákladního automobilu při běžném provozu, pokud tomu nebrání lékařským potvrzením doložené objektivní zdravotní důvody, musí být na sedadle vybaveném bezpečnostním pásem:",
@@ -193,10 +138,10 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19600-ridic_nakladniho_automobilu_pri_beznem_provozu_pokud_tomu_nebrani_lekarskym_potvrzenim_dolozen",
-      "answered": 0,
-      "successRate": 0,
-      "occurance": 0,
-      "shown": 0
+      "answered": 1,
+      "successRate": 1,
+      "occurance": 99.99999999999991,
+      "shown": 1
     },
     {
       "title": "Pokud tomu nebrání interní předpis provozovatele vozidla, v kabině nákladního automobilu na sedadle spolujezdce vybaveném bezpečnostními pásy se:",
