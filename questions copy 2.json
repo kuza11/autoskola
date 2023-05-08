@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "shown": 123,
-  "correct": 111,
+  "shown": 85,
+  "correct": 77,
   "questions": [
     {
       "title": "Řidič autobusu za jízdy:",
@@ -12,11 +12,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19580-ridic_autobusu_za_jizdy",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 101
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 1
     },
     {
       "title": "Může řidič řídit vozidlo pokud je jeho schopnost k řízení snížena v důsledku jeho zdravotního stavu?",
@@ -27,11 +27,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19581-muze_ridic_ridit_vozidlo_pokud_je_jeho_schopnost_k_rizeni_snizena_v_dusledku_jeho_zdravotniho_",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 102
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 2
     },
     {
       "title": "Smí řidič při zastavení vozidla před železničním přejezdem za snížené viditelnosti užít potkávací světla?",
@@ -42,11 +42,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19584-smi_ridic_pri_zastaveni_vozidla_pred_zeleznicnim_prejezdem_za_snizene_viditelnosti_uzit_potkav",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 104
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 3
     },
     {
       "title": "Smí řidič traktoru přepravovat v kabině děti?",
@@ -57,11 +57,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19586-smi_ridic_traktoru_prepravovat_v_kabine_deti",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 106
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 4
     },
     {
       "title": "Smí se s nákladním automobilem s okamžitou hmotností 12 000 kg vléci na tyči nákladní automobil, který má poruchu na brzdovém systému a má okamžitou hmotností 15 000 kg?",
@@ -72,11 +72,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19587-smi_se_s_nakladnim_automobilem_s_okamzitou_hmotnosti_12_000_kg_vleci_na_tyci_nakladni_automobi",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 108
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 5
     },
     {
       "title": "Smí řidič s řidičským oprávněním skupiny B řídit soupravu vozidel, kdy osobní automobil má provozní hmotnost 1 500 kg a největší povolenou hmotnost 2 050 kg a přípojné vozidlo má provozní hmotnost 900 kg a největší povolenou hmotnost 1 650 kg?",
@@ -87,11 +87,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19588-smi_ridic_s_ridicskym_opravnenim_skupiny_b_ridit_soupravu_vozidel_kdy_osobni_automobil_ma_prov",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 109
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 6
     },
     {
       "title": "Může řidič s řidičským oprávněním skupiny B s harmonizovaným kódem 96 řídit soupravu vozidel, kdy osobní automobil má okamžitou hmotnost 2 500 kg a největší povolenou hmotnost 3 050 kg a přípojné vozidlo má okamžitou hmotnost 900 kg a největší povolenou hmotnost 1 650 kg?",
@@ -102,11 +102,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19589-muze_ridic_s_ridicskym_opravnenim_skupiny_b_s_harmonizovanym_kodem_96_ridit_soupravu_vozidel_k",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 110
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 7
     },
     {
       "title": "Smí řidič nákladního vozidla při jízdě vozidlem držet v ruce nebo jiným způsobem vysílačku?",
@@ -117,11 +117,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19590-smi_ridic_nakladniho_vozidla_pri_jizde_vozidlem_drzet_v_ruce_nebo_jinym_zpusobem_vysilacku",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 112
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 8
     },
     {
       "title": "Za jakých podmínek smí řidič nákladního automobilu o nejvyšší povolené hmotnosti 7490 kg pokračovat v neděli v 16:00 hodin v jízdě po silnici č.16 směrem Mělník?",
@@ -132,11 +132,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19598-za_jakych_podminek_smi_ridic_nakladniho_automobilu_o_nejvyssi_povolene_hmotnosti_7490_kg_pokra",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 113
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 9
     },
     {
       "title": "Řidič nákladního automobilu při běžném provozu, pokud tomu nebrání lékařským potvrzením doložené objektivní zdravotní důvody, musí být na sedadle vybaveném bezpečnostním pásem:",
@@ -147,11 +147,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19600-ridic_nakladniho_automobilu_pri_beznem_provozu_pokud_tomu_nebrani_lekarskym_potvrzenim_dolozen",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 115
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 10
     },
     {
       "title": "Pokud tomu nebrání interní předpis provozovatele vozidla, v kabině nákladního automobilu na sedadle spolujezdce vybaveném bezpečnostními pásy se:",
@@ -162,11 +162,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19601-pokud_tomu_nebrani_interni_predpis_provozovatele_vozidla_v_kabine_nakladniho_automobilu_na_sed",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 116
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 11
     },
     {
       "title": "Pokud sedadlo spolujezdce v kabině nákladního automobilu není vybaveno zádržným systémem, je zakázáno:",
@@ -177,11 +177,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19602-pokud_sedadlo_spolujezdce_v_kabine_nakladniho_automobilu_neni_vybaveno_zadrznym_systemem_je_za",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 117
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 12
     },
     {
       "title": "Řidič autobusu (vozidla hromadné dopravy osob) nesmí:",
@@ -192,11 +192,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19603-ridic_autobusu_vozidla_hromadne_dopravy_osob_nesmi",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 118
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 13
     },
     {
       "title": "Je možné přepravovat na předním sedadle osobního automobilu dítě mladší 12 let a nepřevyšující parametry dané zákonem pro jízdu v zádržném systému (150 cm / 36 kg)?",
@@ -207,11 +207,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19604-je_mozne_prepravovat_na_prednim_sedadle_osobniho_automobilu_dite_mladsi_12_let_a_neprevysujici",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 119
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 14
     },
     {
       "title": "Řidič, který při předjíždění motorového vozidla vybočuje ze směru své jízdy:",
@@ -222,11 +222,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=99-ridic_ktery_pri_predjizdeni_motoroveho_vozidla_vybocuje_ze_smeru_sve_jizdy",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 120
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 15
     },
     {
       "title": "Vozidlo vjíždějící na pozemní komunikaci:",
@@ -237,11 +237,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=60-vozidlo_vjizdejici_na_pozemni_komunikaci",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 121
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 16
     },
     {
       "title": "Autobus s označením „Označení autobusu přepravujícího děti“ zastavil v označené zastávce. Řidič vozidla, které jede za ním:",
@@ -252,11 +252,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=61-autobus_s_oznacenim_oznaceni_autobusu_prepravujiciho_deti_zastavil_v_oznacene_zastavce_ridic_vozi",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 122
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 17
     },
     {
       "title": "Na pozemní komunikaci objíždí vozidlo překážku. Musí jeho řidič dávat znamení o změně směru své jízdy?",
@@ -266,11 +266,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=62-na_pozemni_komunikaci_objizdi_vozidlo_prekazku_musi_jeho_ridic_davat_znameni_o_zmene_smeru_sve_ji",
-      "answered": 2,
+      "answered": 1,
       "successRate": 1,
-      "occurance": 199.99999999999983,
-      "shown": 2,
-      "lastSeen": 123
+      "occurance": 99.99999999999991,
+      "shown": 1,
+      "lastSeen": 18
     },
     {
       "title": "Po předjetí jiného vozidla máte v úmyslu se zařadit před toto vozidlo. Musíte dávat znamení o změně směru jízdy?",
@@ -580,11 +580,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=281-precniva_li_za_snizene_viditelnosti_naklad_z_boku_u_motoroveho_vozidla_nebo_jizdni_soupravy_vnej",
-      "answered": 2,
-      "successRate": 0.6666666666666666,
-      "occurance": 69.23076923076921,
-      "shown": 3,
-      "lastSeen": 86
+      "answered": 1,
+      "successRate": 0.5,
+      "occurance": 33.33333333333333,
+      "shown": 2,
+      "lastSeen": 51
     },
     {
       "title": "Zvláštním způsobem musí být označen náklad, který přečnívá vozidlo vpředu nebo vzadu:",
@@ -790,11 +790,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=295-precniva_li_za_snizene_viditelnosti_naklad_vozidlo_vpredu_nebo_vzadu_o_vice_nez_1_metr_musi_byt_",
-      "answered": 2,
-      "successRate": 0.6666666666666666,
-      "occurance": 69.23076923076921,
-      "shown": 3,
-      "lastSeen": 103
+      "answered": 1,
+      "successRate": 0.5,
+      "occurance": 33.33333333333333,
+      "shown": 2,
+      "lastSeen": 69
     },
     {
       "title": "Přečnívá-li za nesnížené viditelnosti náklad vozidlo vpředu nebo vzadu o více než 1 metr, musí být přečnívající konec nákladu:",
@@ -1085,11 +1085,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=7-je_jezdec_na_koni_ktery_se_pohybuje_po_pozemni_komunikaci_ridicem",
-      "answered": 1,
-      "successRate": 1,
-      "occurance": 99.99999999999991,
-      "shown": 1,
-      "lastSeen": 87
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "Platí pro jezdce na koni, který jede po pozemní komunikaci, povinnosti a práva řidiče?",
@@ -1099,11 +1099,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=8-plati_pro_jezdce_na_koni_ktery_jede_po_pozemni_komunikaci_povinnosti_a_prava_ridice",
-      "answered": 1,
-      "successRate": 1,
-      "occurance": 99.99999999999991,
-      "shown": 1,
-      "lastSeen": 88
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "Vozka, který řídí potahové vozidlo, je:",
@@ -1114,11 +1114,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=9-vozka_ktery_ridi_potahove_vozidlo_je",
-      "answered": 1,
-      "successRate": 1,
-      "occurance": 99.99999999999991,
-      "shown": 1,
-      "lastSeen": 89
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "Přečnívá-li za nesnížené viditelnosti náklad z boku u motorového vozidla nebo jízdní soupravy vnější okraj obrysových světel o více než 40 cm, musí být přečnívající konec nákladu:",
@@ -1129,11 +1129,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=297-precniva_li_za_nesnizene_viditelnosti_naklad_z_boku_u_motoroveho_vozidla_nebo_jizdni_soupravy_vn",
-      "answered": 1,
-      "successRate": 1,
-      "occurance": 99.99999999999991,
-      "shown": 1,
-      "lastSeen": 90
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "Na silnici pro motorová vozidla:",
@@ -1144,11 +1144,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=113-na_silnici_pro_motorova_vozidla",
-      "answered": 1,
-      "successRate": 1,
-      "occurance": 99.99999999999991,
-      "shown": 1,
-      "lastSeen": 91
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "Vyžadují-li provozní nebo jiné závažné důvody, aby osoby při vystupování z vozidla hromadné dopravy osob mimo zastávku nebo nastupování do něj mimo zastávku vstoupily do vozovky:",
@@ -1159,11 +1159,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=298-vyzaduji_li_provozni_nebo_jine_zavazne_duvody_aby_osoby_pri_vystupovani_z_vozidla_hromadne_dopra",
-      "answered": 1,
-      "successRate": 1,
-      "occurance": 99.99999999999991,
-      "shown": 1,
-      "lastSeen": 92
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "Je-li překážkou provozu na pozemní komunikaci vozidlo, které provozovatel neodstranil, rozhodne o jeho odstranění:",
@@ -1174,11 +1174,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=255-je_li_prekazkou_provozu_na_pozemni_komunikaci_vozidlo_ktere_provozovatel_neodstranil_rozhodne_o_",
-      "answered": 1,
-      "successRate": 1,
-      "occurance": 99.99999999999991,
-      "shown": 1,
-      "lastSeen": 93
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "Při vlečení motorového vozidla na tyči musí být délka tyče taková, aby vzdálenost mezi vozidly nebyla:",
@@ -1189,11 +1189,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=200-pri_vleceni_motoroveho_vozidla_na_tyci_musi_byt_delka_tyce_takova_aby_vzdalenost_mezi_vozidly_ne",
-      "answered": 1,
-      "successRate": 0.5,
-      "occurance": 33.33333333333333,
-      "shown": 2,
-      "lastSeen": 105
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "Při řízení provozu na křižovatce policistou je řidič vozidla, pro kterého z pokynu policisty taková povinnost vyplývá, povinen zastavit vozidlo:",
@@ -1204,11 +1204,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=205-pri_rizeni_provozu_na_krizovatce_policistou_je_ridic_vozidla_pro_ktereho_z_pokynu_policisty_tako",
-      "answered": 1,
-      "successRate": 0.5,
-      "occurance": 33.33333333333333,
-      "shown": 2,
-      "lastSeen": 107
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "V pěší zóně smí řidič jet rychlostí:",
@@ -1219,11 +1219,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=225-v_pesi_zone_smi_ridic_jet_rychlosti",
-      "answered": 1,
-      "successRate": 1,
-      "occurance": 99.99999999999991,
-      "shown": 1,
-      "lastSeen": 96
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "V pěší zóně:",
@@ -1234,11 +1234,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=226-v_pesi_zone",
-      "answered": 1,
-      "successRate": 1,
-      "occurance": 99.99999999999991,
-      "shown": 1,
-      "lastSeen": 97
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "Hry dětí na pozemní komunikaci:",
@@ -1249,11 +1249,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=227-hry_deti_na_pozemni_komunikaci",
-      "answered": 1,
-      "successRate": 0.5,
-      "occurance": 33.33333333333333,
-      "shown": 2,
-      "lastSeen": 111
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "V obytné zóně řidič:",
@@ -1264,11 +1264,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=228-v_obytne_zone_ridic",
-      "answered": 1,
-      "successRate": 1,
-      "occurance": 99.99999999999991,
-      "shown": 1,
-      "lastSeen": 99
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "V obytné zóně:",
@@ -1279,11 +1279,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=229-v_obytne_zone",
-      "answered": 1,
-      "successRate": 0.5,
-      "occurance": 33.33333333333333,
-      "shown": 2,
-      "lastSeen": 114
+      "answered": 0,
+      "successRate": 0,
+      "occurance": 0,
+      "shown": 0,
+      "lastSeen": 0
     },
     {
       "title": "V pěší zóně:",

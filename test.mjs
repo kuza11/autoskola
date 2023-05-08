@@ -21,14 +21,15 @@ async function run(){
   
     for(let question of questions.questions){
       if(question.shown != 0){
-        if(newest.priority < questions.shown - (question.shown + question.occurance)){
-          newest.priority = questions.shown - (question.shown + question.occurance);
+        if(newest.priority < questions.shown - (question.lastSeen + question.occurance)){
+          newest.priority = questions.shown - (question.lastSeen + question.occurance);
           newest.question = question;
         }
       }else if (newest.questionNew === undefined){
         newest.questionNew = question;
       }
     }
+    console.log(chalk.blueBright(`\npriority: ${newest.priority.toFixed(1)}`));
     if(newest.priority > -1){
       await show(newest.question);
     }else if(newest.questionNew != undefined){
@@ -88,8 +89,19 @@ async function show(question) {
   const textSelector = await page.waitForSelector(
     `text/${textArr[ans-1]}`
   );
-  await (await textSelector.getProperty("parentElement")).click();
+  if(textArr[ans-1] == question.answers[question.correct]){
+    await page.evaluate(`document.getElementsByClassName("otazka_spravne")[0].click()`);
+  }
+    //await (await textSelector.getProperty("parentElement")).click();
+  else{
+    await page.evaluate(`
+    for(let answer of document.getElementsByClassName("answer")){
+      answer.click();
+    }`);
+  }
+
   questions.shown++;
+  question.lastSeen = questions.shown;
   if(textArr[ans - 1] == question.answers[question.correct]){
     questions.correct++;
     question.shown++;
@@ -114,6 +126,7 @@ async function show(question) {
       x.shown = question.shown;
       x.successRate = question.successRate;
       x.occurance = question.occurance;
+      x.lastSeen = question.lastSeen;
     } 
   });
 
