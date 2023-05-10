@@ -21,7 +21,7 @@ async function run(){
   
     for(let question of questions.questions){
       if(question.shown != 0){
-        if(newest.priority < questions.shown - (question.lastSeen + question.occurance)){
+        if(newest.priority < questions.shown - (question.lastSeen + question.occurance) && question.occurance < 199){
           newest.priority = questions.shown - (question.lastSeen + question.occurance);
           newest.question = question;
         }
