@@ -108,12 +108,16 @@ async function show(question) {
     question.answered++;
     question.successRate = question.answered/question.shown;
     question.occurance = (question.shown * 10) / (1.1 - question.successRate);
-    console.log(`\n${chalk.green.bold("correct")}\n\n${chalk.yellow.underline("stats:")}\n\t${chalk.yellow(`accuracy: ${((questions.correct/questions.shown)*100).toFixed(1)}%\n\tanswered: ${questions.shown}\n\tremaining new: ${questions.questions.filter(x => x.shown==0).length}\n\tanswers done: ${questions.questions.filter(x => x.occurance>=199).length}`)}`);
+    let remainingNew = questions.questions.filter(x => x.shown==0).length;
+    let answersDone = questions.questions.filter(x => x.occurance>=199).length;
+    console.log(`\n${chalk.green.bold("correct")}\n\n${chalk.yellow.underline("stats:")}\n\t${chalk.yellow(`accuracy: ${((questions.correct/questions.shown)*100).toFixed(1)}%\n\tanswered: ${questions.shown}\n\tremaining new: ${remainingNew}\n\tanswers done: ${answersDone}\n\tin circulation: ${questions.questions.length-remainingNew-answersDone}\n\toccurance: ${question.occurance.toFixed(1)}`)}`);
   }else{
     question.shown++;
     question.successRate = question.answered/question.shown;
     question.occurance = (question.shown * 10) / (1.1 - question.successRate);
-    console.log(`\n${chalk.red.bold("incorrect")}\n${chalk.green("correct: " + question.answers[question.correct])}\n\n\n${chalk.yellow.underline("stats:")}\n\t${chalk.yellow(`accuracy: ${((questions.correct/questions.shown)*100).toFixed(1)}%\n\tanswered: ${questions.shown}\n\tremaining new: ${questions.questions.filter(x => x.shown==0).length}\n\tanswers done: ${questions.questions.filter(x => x.occurance>=199).length}`)}`);
+    let remainingNew = questions.questions.filter(x => x.shown==0).length;
+    let answersDone = questions.questions.filter(x => x.occurance>=199).length;
+    console.log(`\n${chalk.red.bold("incorrect")}\n${chalk.green("correct: " + question.answers[question.correct])}\n\n\n${chalk.yellow.underline("stats:")}\n\t${chalk.yellow(`accuracy: ${((questions.correct/questions.shown)*100).toFixed(1)}%\n\tanswered: ${questions.shown}\n\tremaining new: ${remainingNew}\n\tanswers done: ${answersDone}\n\tin circulation: ${questions.questions.length-remainingNew-answersDone}\n\toccurance: ${question.occurance.toFixed(1)}`)}`);
     const textSelector2 = await page.waitForSelector(
       `text/${question.answers[question.correct]}`
     );
