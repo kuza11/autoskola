@@ -5,7 +5,7 @@
 
 import puppeteer from 'puppeteer';
 import fs from 'fs';
-import questions from './questions.json' assert { type: 'json' };
+import questions from './questions_checked.json' assert { type: 'json' };
 import chalk from 'chalk';
 
 
@@ -107,7 +107,7 @@ async function show(question) {
     question.shown++;
     question.answered++;
     question.successRate = question.answered/question.shown;
-    question.occurance = (question.shown * 10) / (1.1 - question.successRate);
+    question.occurance = (question.shown * 20) / (1.1 - question.successRate);
     console.log(`\n${chalk.green.bold("correct")}\n\n${chalk.yellow.underline("stats:")}\n\t${chalk.yellow(`accuracy: ${((questions.correct/questions.shown)*100).toFixed(1)}%\n\tanswered: ${questions.shown}\n\tremaining new: ${questions.questions.filter(x => x.shown==0).length}`)}`);
   }else{
     question.shown++;
@@ -130,7 +130,7 @@ async function show(question) {
     } 
   });
 
-  fs.writeFileSync("./questions.json", JSON.stringify(questions, null, 2), {encoding: 'utf8', flag: "w+"});
+  fs.writeFileSync("./questions_checked.json", JSON.stringify(questions, null, 2), {encoding: 'utf8', flag: "w+"});
 
   prompt()("\npress enter to continue\n\n");
 

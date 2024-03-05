@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "shown": 2,
-  "correct": 2,
+  "shown": 3,
+  "correct": 3,
   "questions": [
     {
       "title": "Vyhodnoťte nejzávažnější riziko v animaci:",
@@ -52,11 +52,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=490-jake_dusledky_mohou_mit_sily_pusobici_pri_prujezdu_zatackou_na_vetsi_naklad_ktery_prepravujete_n",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 3,
+      "answered": 1,
+      "occurance": 199.99999999999983,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "S ohledem na defenzivní způsob jízdy řidič vozidla z výhledu:",

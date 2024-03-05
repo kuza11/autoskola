@@ -33,14 +33,15 @@ async function a() {
 
 
 
-  fs.writeFileSync("./links.json", JSON.stringify(links), {encoding: 'utf8'})
+  fs.writeFileSync("./links.json", JSON.stringify(links, null, 2), {encoding: 'utf8'})
 
 
   // Wait and click on first result
 
   // Locate the full title with a unique string
 
-  //await browser.close();
+  await browser.close();
+  return;
 }
 
 a();
