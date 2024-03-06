@@ -1,5 +1,7 @@
 let questions = require('./questions.json');
 let fs = require('fs');
+questions.correct = 0;
+questions.shown = 0;
 questions.questions.forEach((question, index) => {
     /*if(questions.questions.slice(index + 1).find(q => q.link == question.link)){
         console.log(question)
