@@ -107,7 +107,7 @@ async function show(question) {
     question.shown++;
     question.answered++;
     question.successRate = question.answered/question.shown;
-    question.occurance = (question.shown * 20) / (1.1 - question.successRate);
+    question.occurance = (question.shown * 130) / (1.1 - question.successRate);
     let remainingNew = questions.questions.filter(x => x.shown==0).length;
     let answersDone = questions.questions.filter(x => x.occurance>=199).length;
     console.log(`\n${chalk.green.bold("correct")}\n\n${chalk.yellow.underline("stats:")}\n\t${chalk.yellow(`accuracy: ${((questions.correct/questions.shown)*100).toFixed(1)}%\n\tanswered: ${questions.shown}\n\tremaining new: ${remainingNew}\n\tquestions done: ${answersDone}\n\tin circulation: ${questions.questions.length-remainingNew-answersDone}\n\toccurance: ${question.occurance.toFixed(1)}`)}`);
