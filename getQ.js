@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
-const links = require('./links.json');
-const questions = require("./questions.json");
+const links = require('./links_rest.json');
+const {questions} = require("./questions.json");
 
 const cmd = `
 
