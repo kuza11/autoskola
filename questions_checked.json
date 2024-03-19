@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "shown": 290,
-  "correct": 278,
+  "shown": 333,
+  "correct": 321,
   "questions": [
     {
       "title": "Vyhodnoťte nejzávažnější riziko v animaci:",
@@ -4382,11 +4382,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=1057-ridic_nesmi_predjizdet",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 291,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Pokud tomu nebrání interní předpis provozovatele vozidla, v kabině nákladního automobilu na sedadle spolujezdce vybaveném bezpečnostními pásy se:",
@@ -4412,11 +4412,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=214-signal_dvou_vedle_sebe_umistenych_stridave_prerusovanych_cervenych_svetel_znamena_pro_ridice",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 292,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Nastupovat do vozidla nebo vystupovat z něj se smí jen tehdy:",
@@ -4427,11 +4427,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=161-nastupovat_do_vozidla_nebo_vystupovat_z_nej_se_smi_jen_tehdy",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 293,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "\"Celostátní dopravní informační systém\":",
@@ -4442,11 +4442,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=935-celostatni_dopravni_informacni_system",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 294,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Během jízdy na silnici pro motorová vozidla mimo obec se ukázalo, že Vaše vozidlo ve stoupání nedosahuje rychlosti nejméně 80 km/h (např. pro nedostatečný výkon motoru nebo pro hmotnost přepravovaného nákladu). Můžete pokračovat v jízdě po této silnici?",
@@ -4457,11 +4457,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=118-behem_jizdy_na_silnici_pro_motorova_vozidla_mimo_obec_se_ukazalo_ze_vase_vozidlo_ve_stoupani_ned",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 295,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Za snížené viditelnosti, deště a zhoršených klimatických podmínek je bezpečný odstup za vpředu jedoucím vozidlem?",
@@ -4472,11 +4472,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=18420-za_snizene_viditelnosti_deste_a_zhorsenych_klimatickych_podminek_je_bezpecny_odstup_za_vpredu_",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 296,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Při přepravě nákladu na střešním nosiči zavazadel:",
@@ -4487,11 +4487,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=491-pri_preprave_nakladu_na_stresnim_nosici_zavazadel",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 297,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Před odbočováním vlevo se musí řidič zařadit:",
@@ -4502,11 +4502,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=83-pred_odbocovanim_vlevo_se_musi_ridic_zaradit",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 298,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič motorového vozidla smí dávat světelné výstražné znamení krátkým přerušovaným rozsvícením dálkových světel nebo přepínáním potkávacích a dálkových světel:",
@@ -4517,11 +4517,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=187-ridic_motoroveho_vozidla_smi_davat_svetelne_vystrazne_znameni_kratkym_prerusovanym_rozsvicenim_d",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 299,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič motorového vozidla musí mít při řízení u sebe:",
@@ -4532,11 +4532,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=57-ridic_motoroveho_vozidla_musi_mit_pri_rizeni_u_sebe",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 300,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Úprava barvy světla vyzařovaného světelným zařízením vozidla je:",
@@ -4547,11 +4547,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=769-uprava_barvy_svetla_vyzarovaneho_svetelnym_zarizenim_vozidla_je",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 301,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Do skupiny tvořené vozidly s právem přednostní jízdy a vozidly jimi doprovázenými se řidiči ostatních vozidel:",
@@ -4562,11 +4562,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=271-do_skupiny_tvorene_vozidly_s_pravem_prednostni_jizdy_a_vozidly_jimi_doprovazenymi_se_ridici_osta",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 302,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Vyobrazený železniční přejezd se nachází na pozemní komunikaci mimo obec. Jakou nejvyšší rychlostí smíte jet ve vzdálenosti 50 metrů před tímto přejezdem?",
@@ -4577,11 +4577,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=581-vyobrazeny_zeleznicni_prejezd_se_nachazi_na_pozemni_komunikaci_mimo_obec_jakou_nejvyssi_rychlost",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 303,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Zastavit s vozidlem ve druhé řadě můžete jen tehdy:",
@@ -4592,11 +4592,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=182-zastavit_s_vozidlem_ve_druhe_rade_muzete_jen_tehdy",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 304,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Vozidlům s právem přednostní jízdy a vozidlům jimi doprovázeným musí řidiči ostatních vozidel:",
@@ -4607,11 +4607,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=265-vozidlum_s_pravem_prednostni_jizdy_a_vozidlum_jimi_doprovazenym_musi_ridici_ostatnich_vozidel",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 305,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Může řidič řídit vozidlo pokud je jeho schopnost k řízení snížena v důsledku jeho zdravotního stavu?",
@@ -4622,11 +4622,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19581-muze_ridic_ridit_vozidlo_pokud_je_jeho_schopnost_k_rizeni_snizena_v_dusledku_jeho_zdravotniho_",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 306,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Podmínky pro udělení příslušného řidičského oprávnění musí osoba splňovat:",
@@ -4637,11 +4637,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=651-podminky_pro_udeleni_prislusneho_ridicskeho_opravneni_musi_osoba_splnovat",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 307,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Strážník obecní policie:",
@@ -4652,11 +4652,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=293-straznik_obecni_policie",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 308,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Motocykl bez postranního vozíku:",
@@ -4667,11 +4667,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=204-motocykl_bez_postranniho_voziku",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 309,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Chodci v obytné zóně:",
@@ -4697,11 +4697,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=767-nelze_li_prepnout_dalkova_svetla_na_potkavaci_nebo_zpusobuji_li_svetlomety_oslneni",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 310,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Zvýšené riziko ztráty přilnavosti pneumatik a následného smyku za deště hrozí:",
@@ -4712,11 +4712,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=475-zvysene_riziko_ztraty_prilnavosti_pneumatik_a_nasledneho_smyku_za_deste_hrozi",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 311,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič na motocyklu nesmí přepravovat na druhém sedadle osobu mladší:",
@@ -4727,11 +4727,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=21044-ridic_na_motocyklu_nesmi_prepravovat_na_druhem_sedadle_osobu_mladsi",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 312,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Ovlivňují síly působící na náklad při průjezdu zatáčkou bezpečnost jízdy?",
@@ -4742,11 +4742,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=556-ovlivnuji_sily_pusobici_na_naklad_pri_prujezdu_zatackou_bezpecnost_jizdy",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 313,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Za jízdy na motocyklu je řidič povinen:",
@@ -4757,11 +4757,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=58-za_jizdy_na_motocyklu_je_ridic_povinen",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 314,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Vozka, který řídí potahové vozidlo, je:",
@@ -4772,11 +4772,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=9-vozka_ktery_ridi_potahove_vozidlo_je",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 315,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Mezinárodní řidičský průkaz:",
@@ -4787,11 +4787,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=661-mezinarodni_ridicsky_prukaz",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 316,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Jak zjistíte stav vědomí pacienta:",
@@ -4802,11 +4802,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=970-jak_zjistite_stav_vedomi_pacienta",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 317,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Před čerpáním pohonných hmot musí řidič:",
@@ -4817,11 +4817,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=248-pred_cerpanim_pohonnych_hmot_musi_ridic",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 318,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Je cyklista řidičem se všemi právy a povinnostmi účastníka provozu na pozemních komunikacích?",
@@ -4831,11 +4831,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=20-je_cyklista_ridicem_se_vsemi_pravy_a_povinnostmi_ucastnika_provozu_na_pozemnich_komunikacich",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 319,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "\"Nemotorové vozidlo\":",
@@ -4846,11 +4846,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=907-nemotorove_vozidlo",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 320,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič, který při předjíždění vybočuje ze směru své jízdy:",
@@ -4876,11 +4876,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=126-ridici_protijedoucich_vozidel_se_vyhybaji",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 321,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič vozidla na snímku:",
@@ -4890,11 +4890,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=11997-ridic_vozidla_na_snimku",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 322,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič nákladního vozidla ve vyobrazené dopravní situaci při odbočování vpravo s ohledem na rozměry vozidla musel nejdříve vybočit ze směru své jízdy vlevo a přitom",
@@ -4905,11 +4905,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19610-ridic_nakladniho_vozidla_ve_vyobrazene_dopravni_situaci_pri_odbocovani_vpravo_s_ohledem_na_roz",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 323,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič vozidla z výhledu hodlá odbočit vlevo. V jakém pořadí projedou vozidla touto křižovatkou?",
@@ -4920,11 +4920,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=11962-ridic_vozidla_z_vyhledu_hodla_odbocit_vlevo_v_jakem_poradi_projedou_vozidla_touto_krizovatkou",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 324,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Spolujezdec na motocyklu:",
@@ -4935,11 +4935,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=21062-spolujezdec_na_motocyklu",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 325,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Co může vést ke smyku motocyklu při průjezdu zatáčkami?",
@@ -4950,11 +4950,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=540-co_muze_vest_ke_smyku_motocyklu_pri_prujezdu_zatackami",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 326,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Přepravované věci musí být ve vozidle umístěny:",
@@ -4965,11 +4965,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=289-prepravovane_veci_musi_byt_ve_vozidle_umisteny",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 327,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "\"Vozka\":",
@@ -4980,11 +4980,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=910-vozka",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 328,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Ovlivní používání zkrášlovacích prostředků za jízdy reakční dobu řidiče nutnou ke sledování a řešení situací v provozu na pozemních komunikacích?",
@@ -4995,11 +4995,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=18434-ovlivni_pouzivani_zkraslovacich_prostredku_za_jizdy_reakcni_dobu_ridice_nutnou_ke_sledovani_a_",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 329,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Ve vyobrazené dopravní situaci osoba na osobním přepravníku",
@@ -5010,11 +5010,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=21083-ve_vyobrazene_dopravni_situaci_osoba_na_osobnim_prepravniku",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 330,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič vozidla z výhledu projede vyobrazenou křižovatkou jako:",
@@ -5025,11 +5025,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=589-ridic_vozidla_z_vyhledu_projede_vyobrazenou_krizovatkou_jako",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 331,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Na této křižovatce",
@@ -5040,11 +5040,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=951-na_teto_krizovatce",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 332,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Ve vyobrazené dopravní situaci na silnici pro motorová vozidla:",
@@ -5055,11 +5055,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=18400-ve_vyobrazene_dopravni_situaci_na_silnici_pro_motorova_vozidla",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 333,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Může ovlivnit používání nevhodného obutí za jízdy reakční dobu řidiče nutnou k řešení situací v provozu na pozemních komunikacích?",
@@ -5802,11 +5802,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=248-pred_cerpanim_pohonnych_hmot_musi_ridic",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 318,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Jak se zachováte při kolapsovém stavu, kdy postižený upadne a ztrácí vědomí?",
@@ -6040,11 +6040,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=21062-spolujezdec_na_motocyklu",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 325,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Tento pokyn policisty znamená:",
@@ -6459,11 +6459,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=289-prepravovane_veci_musi_byt_ve_vozidle_umisteny",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 327,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "V obci smí řidič vozidla o celkové hmotnosti nepřevyšující 3.500 kg zastavit a stát kolmo, popřípadě šikmo k okraji pozemní komunikace jen:",
@@ -10206,11 +10206,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=57-ridic_motoroveho_vozidla_musi_mit_pri_rizeni_u_sebe",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 300,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič musí dát přednost v jízdě vozidlům jedoucím po pozemní komunikaci:",
@@ -12180,11 +12180,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=271-do_skupiny_tvorene_vozidly_s_pravem_prednostni_jizdy_a_vozidly_jimi_doprovazenymi_se_ridici_osta",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 302,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Může být schopnost k řízení vozidla ovlivněna i po požití malého množství alkoholu, např. půl litru desetistupňového piva?",
@@ -13318,11 +13318,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=214-signal_dvou_vedle_sebe_umistenych_stridave_prerusovanych_cervenych_svetel_znamena_pro_ridice",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 292,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Odcizení řidičského průkazu je držitel řidičského oprávnění povinen:",
