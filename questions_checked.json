@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "shown": 333,
-  "correct": 321,
+  "shown": 342,
+  "correct": 330,
   "questions": [
     {
       "title": "Vyhodnoťte nejzávažnější riziko v animaci:",
@@ -5070,11 +5070,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=18418-muze_ovlivnit_pouzivani_nevhodneho_obuti_za_jizdy_reakcni_dobu_ridice_nutnou_k_reseni_situaci_",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 334,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "V jednotlivých případech a je-li to naléhavě nutné, mohou vozidla označená parkovacím průkazem pro osoby se zdravotním postižením vjíždět i do oblasti označené dopravní značkou:",
@@ -5085,11 +5085,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=21067-v_jednotlivych_pripadech_a_je_li_to_nalehave_nutne_mohou_vozidla_oznacena_parkovacim_prukazem_",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 335,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Při zařazování z připojovacího pruhu do průběžného pruhu:",
@@ -5115,11 +5115,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=784-provozovatel_osobniho_automobilu_ktery_nebyl_drive_registrovan_v_zahranici_pristavi_tento_automo",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 336,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Zajíždí-li řidič za účelem zastavení nebo stání k okraji pozemní komunikace nebo k chodníku:",
@@ -5130,11 +5130,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=160-zajizdi_li_ridic_za_ucelem_zastaveni_nebo_stani_k_okraji_pozemni_komunikace_nebo_k_chodniku",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 337,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Když zvýšíte rychlost jízdy na dvojnásobek (např. z 50 km/h na 100 km/h), prodlouží se tím brzdná dráha Vašeho vozidla na suché vozovce:",
@@ -5145,11 +5145,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=477-kdyz_zvysite_rychlost_jizdy_na_dvojnasobek_napr_z_50_kmh_na_100_kmh_1_prodlouzi_se_tim_brzdna_dr",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 338,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "V obytné a pěší zóně je stání dovoleno:",
@@ -5160,11 +5160,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=246-v_obytne_a_pesi_zone_je_stani_dovoleno",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 339,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "\"Dálnice\":",
@@ -5175,11 +5175,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=920-dalnice",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 340,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Jako řidič vozidla z výhledu:",
@@ -5190,11 +5190,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=614-jako_ridic_vozidla_z_vyhledu",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 341,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "S ohledem na defenzivní způsob jízdy řidič vozidla z výhledu:",
@@ -5205,11 +5205,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=18439-s_ohledem_na_defenzivni_zpusob_jizdy_ridic_vozidla_z_vyhledu",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 342,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Používání pneumatik s protiskluzovými hroty:",
@@ -7772,11 +7772,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=920-dalnice",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 340,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Může řidič vozidla z výhledu odbočit vpravo, aniž by porušil pravidla bezpečného provozu?",
