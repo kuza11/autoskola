@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "shown": 342,
-  "correct": 330,
+  "shown": 354,
+  "correct": 340,
   "questions": [
     {
       "title": "Vyhodnoťte nejzávažnější riziko v animaci:",
@@ -5220,11 +5220,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=762-pouzivani_pneumatik_s_protiskluzovymi_hroty",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 343,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Účastníci dopravní nehody jsou povinni:",
@@ -5235,11 +5235,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=263-ucastnici_dopravni_nehody_jsou_povinni",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 344,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Při vjíždění na kruhový objezd a jízdě po kruhovém objezdu:",
@@ -5250,11 +5250,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=194-pri_vjizdeni_na_kruhovy_objezd_a_jizde_po_kruhovem_objezdu",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 345,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Jaký je maximální počet mentorů, kteří mohou být zapsáni v Evidenční kartě sedmnáctiletého řidiče (L17)?",
@@ -5279,11 +5279,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=11961-smi_ridic_z_vyhledu_zastavit_vozidlo_na_prechodu_pro_chodce_aby_mel_nalezity_vyhled_do_krizova",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 346,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Na pozemní komunikaci o třech jízdních pruzích vyznačených na vozovce v jednom směru jízdy smí řidič přejíždět z levého jízdního pruhu do středního jízdního pruhu jen:",
@@ -5294,10 +5294,10 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=93-na_pozemni_komunikaci_o_trech_jizdnich_pruzich_vyznacenych_na_vozovce_v_jednom_smeru_jizdy_smi_ri",
-      "lastSeen": 0,
+      "lastSeen": 347,
       "answered": 0,
-      "occurance": 0,
-      "shown": 0,
+      "occurance": 9.09090909090909,
+      "shown": 1,
       "successRate": 0
     },
     {
@@ -5309,11 +5309,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=493-pri_zvysovani_rychlosti_jizdy_se_zorne_pole_ridice",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 348,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Světelný ukazatel nad pozemní komunikací ukazuje:",
@@ -5324,11 +5324,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=314-svetelny_ukazatel_nad_pozemni_komunikaci_ukazuje",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 349,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Může řidič s řidičským oprávněním skupiny D řídit autobus s přívěsem na přepravu jízdních kol, který má největší povolenou hmotnost 900 kg?",
@@ -5339,11 +5339,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=19592-muze_ridic_s_ridicskym_opravnenim_skupiny_d_ridit_autobus_s_privesem_na_prepravu_jizdnich_kol_",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 350,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Dodržel řidič červeného nákladního automobilu při rychlosti 72 km/h (20m/s) bezpečnou vzdálenost za vozidlem jedoucím před ním?",
@@ -5353,11 +5353,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=18408-dodrzel_ridic_cerveneho_nakladniho_automobilu_pri_rychlosti_72_kmh_20ms_bezpecnou_vzdalenost_z",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 351,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Jste řidičem vozidla z výhledu. Na vyobrazené křižovatce:",
@@ -5368,11 +5368,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=620-jste_ridicem_vozidla_z_vyhledu_na_vyobrazene_krizovatce",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 352,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Na výzvu policisty je řidič povinen podrobit vozidlo kontrole technického stavu vozidla. Zjistí-li se při této kontrole vážná nebo nebezpečná závada",
@@ -5383,10 +5383,10 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=1068-na_vyzvu_policisty_nebo_celnika_je_ridic_povinen_podrobit_vozidlo_kontrole_technickeho_stavu_vo",
-      "lastSeen": 0,
+      "lastSeen": 353,
       "answered": 0,
-      "occurance": 0,
-      "shown": 0,
+      "occurance": 9.09090909090909,
+      "shown": 1,
       "successRate": 0
     },
     {
@@ -5398,11 +5398,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=601-jste_ridicem_vozidla_z_vyhledu_urcete_v_jakem_poradi_projedou_vozidla_touto_krizovatkou",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 354,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Vozidlo z výhledu projede křižovatkou jako:",
