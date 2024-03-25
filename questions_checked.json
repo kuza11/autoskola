@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "shown": 354,
-  "correct": 340,
+  "shown": 371,
+  "correct": 356,
   "questions": [
     {
       "title": "Vyhodnoťte nejzávažnější riziko v animaci:",
@@ -5294,11 +5294,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=93-na_pozemni_komunikaci_o_trech_jizdnich_pruzich_vyznacenych_na_vozovce_v_jednom_smeru_jizdy_smi_ri",
-      "lastSeen": 347,
-      "answered": 0,
-      "occurance": 9.09090909090909,
-      "shown": 1,
-      "successRate": 0
+      "lastSeen": 357,
+      "answered": 1,
+      "occurance": 433.33333333333326,
+      "shown": 2,
+      "successRate": 0.5
     },
     {
       "title": "Při zvyšování rychlosti jízdy se zorné pole řidiče:",
@@ -5383,11 +5383,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=1068-na_vyzvu_policisty_nebo_celnika_je_ridic_povinen_podrobit_vozidlo_kontrole_technickeho_stavu_vo",
-      "lastSeen": 353,
-      "answered": 0,
-      "occurance": 9.09090909090909,
-      "shown": 1,
-      "successRate": 0
+      "lastSeen": 363,
+      "answered": 1,
+      "occurance": 433.33333333333326,
+      "shown": 2,
+      "successRate": 0.5
     },
     {
       "title": "Jste řidičem vozidla z výhledu. Určete, v jakém pořadí projedou vozidla touto křižovatkou:",
@@ -5413,11 +5413,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=1061-vozidlo_z_vyhledu_projede_krizovatkou_jako",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 355,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Na křižovatce, kde není dopravními značkami rozlišena přednost v jízdě, řidič musí dát přednost v jízdě:",
@@ -5428,11 +5428,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=129-na_krizovatce_kde_neni_dopravnimi_znackami_rozlisena_prednost_v_jizde_ridic_musi_dat_prednost_v_",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 356,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Při prudkém sešlápnutí brzdového pedálu vozidla bez protiblokovacího systému brzd (ABS) na náledí dojde:",
@@ -5443,11 +5443,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=480-pri_prudkem_seslapnuti_brzdoveho_pedalu_vozidla_bez_protiblokovaciho_systemu_brzd_abs_na_naledi_",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 358,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Jaký je vztah mezi světelnými signály a svislými dopravními značkami upravujícími přednost?",
@@ -5458,11 +5458,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=210-jaky_je_vztah_mezi_svetelnymi_signaly_a_svislymi_dopravnimi_znackami_upravujicimi_prednost",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 359,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "\"Křižovatka\":",
@@ -5473,11 +5473,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=896-krizovatka",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 360,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Může řidič motorového vozidla předjíždět bezprostředně před přechodem pro chodce, pokud dává znamení o změně směru jízdy?",
@@ -5487,11 +5487,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=109-muze_ridic_motoroveho_vozidla_predjizdet_bezprostredne_pred_prechodem_pro_chodce_pokud_dava_znam",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 361,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Který z uvedených sdělovačů informuje řidiče motorového vozidla o rozsvícených předních mlhových světlech?",
@@ -5502,11 +5502,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=21527-ktery_z_uvedenych_sdelovacu_informuje_ridice_motoroveho_vozidla_o_rozsvicenych_prednich_mlhovy",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 362,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Jak se zachováte na následující křižovatce jako řidič vozidla z výhledu, který odbočuje vlevo?",
@@ -5517,11 +5517,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=11980-jak_se_zachovate_na_nasledujici_krizovatce_jako_ridic_vozidla_z_vyhledu_ktery_odbocuje_vlevo",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 364,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Za okružní jízdu se považuje:",
@@ -5532,10 +5532,10 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=868-za_okruzni_jizdu_se_povazuje",
-      "lastSeen": 0,
+      "lastSeen": 365,
       "answered": 0,
-      "occurance": 0,
-      "shown": 0,
+      "occurance": 9.09090909090909,
+      "shown": 1,
       "successRate": 0
     },
     {
@@ -5547,11 +5547,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=60-vozidlo_vjizdejici_na_pozemni_komunikaci",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 366,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Při vyhýbání se překážce na motocyklu, směřuje pohled řidiče:",
@@ -5562,11 +5562,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=21069-pri_vyhybani_se_prekazce_na_motocyklu_smeruje_pohled_ridice",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 367,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "\"Jízdní pruh\" je část vozovky:",
@@ -5577,11 +5577,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=922-jizdni_pruh_je_cast_vozovky",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 368,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič trolejbusu:",
@@ -5592,11 +5592,11 @@
       ],
       "correct": 2,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=720-ridic_trolejbusu",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 369,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič vozidla, které je vybaveno zvláštním výstražným světlem oranžové barvy, smí tohoto světla užívat:",
@@ -5607,11 +5607,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=277-ridic_vozidla_ktere_je_vybaveno_zvlastnim_vystraznym_svetlem_oranzove_barvy_smi_tohoto_svetla_uz",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 370,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Dát přednost v jízdě znamená povinnost řidiče:",
@@ -5637,11 +5637,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=323-dojde_li_pri_dopravni_nehode_ke_hmotne_skode_pouze_na_vozidle_jehoz_ridic_mel_ucast_na_dopravni_",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 371,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Svítí-li světlo signálu se žlutým světlem „Pozor!“ na křižovatce přerušovaně:",
@@ -7070,11 +7070,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=109-muze_ridic_motoroveho_vozidla_predjizdet_bezprostredne_pred_prechodem_pro_chodce_pokud_dava_znam",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 361,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Držitel řidičského oprávnění skupiny A2 smí mimo jiné řídit:",
@@ -11448,11 +11448,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=60-vozidlo_vjizdejici_na_pozemni_komunikaci",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 366,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič autobusu (vozidla hromadné dopravy osob) nesmí:",
@@ -12748,11 +12748,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=129-na_krizovatce_kde_neni_dopravnimi_znackami_rozlisena_prednost_v_jizde_ridic_musi_dat_prednost_v_",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 356,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Poškození řidičského průkazu je držitel řidičského oprávnění povinen:",
