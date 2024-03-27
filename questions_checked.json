@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "shown": 413,
-  "correct": 396,
+  "shown": 419,
+  "correct": 402,
   "questions": [
     {
       "title": "Vyhodnoťte nejzávažnější riziko v animaci:",
@@ -6250,11 +6250,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=1069-ridic_ktery_dosahl_12_bodu_a_pozbyl_ridicske_opravneni_musi_pri_podani_zadosti_o_vraceni_ridics",
-      "lastSeen": 406,
-      "answered": 0,
-      "occurance": 9.09090909090909,
-      "shown": 1,
-      "successRate": 0
+      "lastSeen": 416,
+      "answered": 1,
+      "occurance": 433.33333333333326,
+      "shown": 2,
+      "successRate": 0.5
     },
     {
       "title": "Svítí-li přerušované bílé světlo signálu přejezdového zabezpečovacího zařízení, smí 50 m před železničním přejezdem a při jeho přejíždění jet řidič rychlostí:",
@@ -6369,11 +6369,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=489-pri_jizde_v_obytne_zone_se_pred_vasim_vozidlem_nahle_objevi_kutalejici_se_mic_jak_byste_meli_rea",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 414,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Při dvojnásobném zvýšení rychlosti působí na řidiče i motocykl v zatáčce:",
@@ -6384,11 +6384,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=508-pri_dvojnasobnem_zvyseni_rychlosti_pusobi_na_ridice_i_motocykl_v_zatacce",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 415,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Na vyobrazené dopravní situaci řidič osobního automobilu jedoucí v přímém směru:",
@@ -6399,11 +6399,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=11991-na_vyobrazene_dopravni_situaci_ridic_osobniho_automobilu_jedouci_v_primem_smeru",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 417,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Započítává se do největší povolené délky autobusů jakákoliv odnímatelná výbava (např. schrána na lyže atd.)?",
@@ -6414,11 +6414,11 @@
       ],
       "correct": 1,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=794-zapocitava_se_do_nejvetsi_povolene_delky_autobusu_jakakoliv_odnimatelna_vybava_napr_schrana_na_l",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 418,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič vozidla z výhledu ve vyobrazené dopravní situaci v obci:",
@@ -6429,11 +6429,11 @@
       ],
       "correct": 0,
       "link": "https://www.autoskola-testy.cz/prohlizeni_otazek.php?otazka=18390-ridic_vozidla_z_vyhledu_ve_vyobrazene_dopravni_situaci_v_obci",
-      "lastSeen": 0,
-      "answered": 0,
-      "occurance": 0,
-      "shown": 0,
-      "successRate": 0
+      "lastSeen": 419,
+      "answered": 1,
+      "occurance": 1299.9999999999989,
+      "shown": 1,
+      "successRate": 1
     },
     {
       "title": "Řidič vozidla, které zastavilo nebo stálo a opět vyjíždí od okraje pozemní komunikace nebo od chodníku:",
